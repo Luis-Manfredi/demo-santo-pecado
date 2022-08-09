@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f029c831034af9e75eababee85ffa2e4",
+  "assets/AssetManifest.json": "e72dfabfae8f4d5fb65c681cd175a933",
 "assets/assets/fonts/Bacalisties.ttf": "9a7927751df300f137ecadcd39ec25ed",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/assets/fonts/Montserrat-Light.ttf": "a17f43cc60643d965636985afc00a221",
@@ -22,6 +22,11 @@ const RESOURCES = {
 "assets/assets/images/lineas-esquinas%25201.png": "6c4554db15812637a8ea41c34b853df4",
 "assets/assets/images/lineas-esquinas%25202.png": "275a957b0e87a89033bf0aa5eb7c7662",
 "assets/assets/images/lineas-esquinas.svg": "350cb4bdb6e147dc6e2ec19c32fcc577",
+"assets/assets/images/plato_1_cover.jpg": "2595d8f419dc6d12ed24e78d0c6bdfd0",
+"assets/assets/images/plato_1_thumbnail.jpg": "4b6c34e498d012a3ada38be1c891a9f0",
+"assets/assets/images/plato_2_compressed_edited.jpg": "22ba19ae7bd10849cdc8ef772dd0989e",
+"assets/assets/images/plato_2_thumbnail.jpg": "a80fac53ef9d3b2c99435c41aa21936f",
+"assets/assets/images/plato_3_thumbnail.jpg": "40ff8020beefc7072082f67efeded85c",
 "assets/FontManifest.json": "07e4ac8d9069d2cc7d96ac2061d68f1d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "26997369aed46acc15078c027e29f7db",
@@ -36,9 +41,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "350bddf624cc5ef6ef70cb2dfb4bd5a5",
-"/": "350bddf624cc5ef6ef70cb2dfb4bd5a5",
-"main.dart.js": "c358e1d814405aa7fdea56a695908edb",
+"index.html": "20930d7cc325493e50748b146490a543",
+"/": "20930d7cc325493e50748b146490a543",
+"main.dart.js": "f533aca3bf485a4d51ac3eb8c6bc4223",
 "manifest.json": "8c0017cefacd271c0eb7194b135e7498",
 "version.json": "0c75329b1c0a25784795d292165a8549"
 };
