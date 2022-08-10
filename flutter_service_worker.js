@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e72dfabfae8f4d5fb65c681cd175a933",
+  "assets/AssetManifest.json": "b151dfb0184d0b5aeefdd5599687a08c",
 "assets/assets/fonts/Bacalisties.ttf": "9a7927751df300f137ecadcd39ec25ed",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d14ad1035ae6da4e5a71eca362a8d696",
 "assets/assets/fonts/Montserrat-Light.ttf": "a17f43cc60643d965636985afc00a221",
@@ -27,6 +27,9 @@ const RESOURCES = {
 "assets/assets/images/plato_2_compressed_edited.jpg": "22ba19ae7bd10849cdc8ef772dd0989e",
 "assets/assets/images/plato_2_thumbnail.jpg": "a80fac53ef9d3b2c99435c41aa21936f",
 "assets/assets/images/plato_3_thumbnail.jpg": "40ff8020beefc7072082f67efeded85c",
+"assets/assets/images/post/sp-post-1.jpg": "1740ae4409d6389136ee5a5896160e3f",
+"assets/assets/images/post/sp-post-2.jpg": "637c19bd93f6c5db291de098d053e37a",
+"assets/assets/images/post/sp-post-3.jpg": "d8187d0bae1d1d18c92dcf7237a5d369",
 "assets/FontManifest.json": "07e4ac8d9069d2cc7d96ac2061d68f1d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "26997369aed46acc15078c027e29f7db",
@@ -41,9 +44,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b1f493bfc27a9e6e2a5b7f716ed54fb3",
-"/": "b1f493bfc27a9e6e2a5b7f716ed54fb3",
-"main.dart.js": "80f5073ca6d097c009f68282026153b5",
+"index.html": "53d1e1ac479ecd11505f41e1e9ad5f43",
+"/": "53d1e1ac479ecd11505f41e1e9ad5f43",
+"main.dart.js": "7c8459bc49b5f0924ff87c8723ccde89",
 "manifest.json": "8c0017cefacd271c0eb7194b135e7498",
 "version.json": "0c75329b1c0a25784795d292165a8549"
 };
